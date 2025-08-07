@@ -1,7 +1,7 @@
 # README
 # ​ Hi, I’m Antonio Muniz
 
-**Data Scientist in training** | M.Sc. candidate in Electrical & Computer Engineering (UFRN)  
+**Data Scientist** | M.Sc. candidate in Electrical & Computer Engineering (UFRN)  
 **Skills**: Python • Web Scraping • Machine Learning • NLP • Unsupervised Learning
 
 ## ​ Featured Projects
