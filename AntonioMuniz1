@@ -1,24 +1,46 @@
-# README
-# ​ Hi, I’m Antonio Muniz
+Hi, I'm Antonio Muniz 👋
 
-**Data Scientist** | M.Sc. candidate in Electrical & Computer Engineering (UFRN)  
-**Skills**: Python • Web Scraping • Machine Learning • NLP • Unsupervised Learning
+Data Analyst | Business Intelligence | Data Science
 
-## ​ Featured Projects
+Electrical Engineer and M.Sc. in Electrical and Computer Engineering from the Federal University of Rio Grande do Norte (UFRN), with experience applying data analysis to business operations, financial management and academic research.
 
-- **[ScrappyTruth – Fake News Detection](https://github.com/AntonioMuniz1/Fake-news)**
-  Project to detect political fake news in Brazilian media using NLP and deep learning.
+I currently work with financial and operational data from a real estate portfolio of approximately 200 rental contracts, supporting decisions related to cash flow, delinquency, owner payments and business feasibility.
 
-- **[HebrewsAuthorship – Authorship Attribution and Style Analysis](https://github.com/AntonioMuniz1/Hebrews-authorship-and-style)**
-  Analysis of authorship and writing style in the Epistle to Hebrews compared to Pauline letters through t-SNE, clustering, and text embeddings.
+I am interested in transforming raw data into reliable metrics, clear visualizations and actionable insights.
 
----
+Core Skills
+Data Analytics & BI: SQL, Power BI, Excel, KPI development and data visualization
+Python: pandas, NumPy, scikit-learn and Streamlit
+Machine Learning: supervised and unsupervised learning, clustering and NLP
+Data Collection: web scraping, APIs and public datasets
+Tools: Git, GitHub, Jupyter Notebook and MATLAB
+Statistics: exploratory analysis, statistical modeling and interpretation of results
+Featured Projects
+Workout Analytics App
 
-## ​ Contact
+Streamlit application integrated with Google Sheets for recording and analyzing workout data. The application calculates training volume and estimated one-repetition maximum, evaluates strength trends and uses linear regression to support load recommendations.
 
-- LinkedIn: [antonio-lemos-9081a0207](https://www.linkedin.com/in/antonio-lemos-9081a0207/)
-- Email: antoniomlemos@hotmail.com
+Technologies: Python, Streamlit, pandas, NumPy, scikit-learn and Google Sheets.
 
----
+ScrappyTruth – Political Fake News Analysis
 
-*(More projects in progress… Data engineering, sports analysis, financial analytics.)*
+NLP research project exploring the classification of political news through text preprocessing, feature extraction and machine learning techniques.
+
+Technologies: Python, NLP, Jupyter Notebook and machine learning.
+
+HebrewsAuthorship – Authorship and Style Analysis
+
+Unsupervised NLP study comparing the writing style of the Epistle to the Hebrews with other New Testament texts through text embeddings, clustering and dimensionality reduction.
+
+Technologies: Python, text embeddings, clustering, t-SNE and Jupyter Notebook.
+
+Current Focus
+Building end-to-end analytics projects with SQL, Python and Power BI
+Developing dashboards and business performance indicators
+Improving data modeling and automation skills
+Applying data analysis to real-world operational and financial problems
+Contact
+https://www.linkedin.com/in/antonio-lemos-9081a0207/
+Email: antoniomlemos@hotmail.com
+
+I am open to 100% remote opportunities in Data Analytics, Business Intelligence, Data Science and related fields.
